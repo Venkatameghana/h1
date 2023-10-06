@@ -1,0 +1,4 @@
+plt.Xlabel('X values')
+plt.Ylabel('Height')
+plt.title('vertical Bar chart')
+plt.show()
